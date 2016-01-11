@@ -1,3 +1,4 @@
+//the console.log() functions within the IIFE will be run immediately upon page load
 (function() {
   'use strict';
   console.log("Presumably, this function will be executed automatically");
