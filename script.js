@@ -37,3 +37,7 @@ document.getElementsByTagName('tag');
 
 [us]
 'use strict';
+
+
+[log]
+console.log();
